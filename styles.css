@@ -1,0 +1,96 @@
+h1 {
+    margin-top: 0px;
+    padding: 50px;
+    text-align: center;
+    background-color: #6A9F9E;
+    border: 4px solid black;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #92C9D0;
+    border: 4px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.genre {
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:  #476A6F;
+    text-align: center;
+    border: 10px double black;
+}
+
+.genreChoices {
+    Display: flex;
+    Justify-content: space-between;
+}
+
+.fantasy {
+    margin: 60px;
+    margin-bottom: 0px;
+    height: 150px;
+
+}
+
+.science-fiction {
+    margin: 60px;
+    margin-bottom: 0px;
+    height: 150px;
+}
+
+.Horror {
+    margin: 60px;
+    margin-bottom: 0px;
+    height: 150px;
+    width: 200px;
+}
+
+body {
+    background-color: #1D3557;
+}
+
+.BookChoices {
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.BookChoices {
+    Display: flex;
+    Justify-content: space-between;
+}
+
+.CruelPrince {
+    margin: 60px;
+    margin-bottom: 0;
+    height: 150px;
+
+}
+
+.TheInheritenceGames {
+    margin: 60px;
+    margin-bottom: 0;
+    height: 150px;
+}
+
+.Heartless {
+    margin: 60px;
+    margin-bottom: 0;
+    height: 150px;
+}
+
+
+.section1 {
+	background-color: #9BC1BC;
+    margin: 0 25px;
+}
+
+.section2 {
+	background-color: #9BC1BC;
+    margin: 0 25px;
+}
